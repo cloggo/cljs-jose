@@ -1,4 +1,4 @@
-(defproject org.clojars.cloggo/jose "0.1.0"
+(defproject org.clojars.cloggo/jose "0.1.1"
   :description "clojurescript API to access javascript c-jose"
   :url "https://github.com/cloggo/cljs-jose"
   :license {:name "MIT" }
